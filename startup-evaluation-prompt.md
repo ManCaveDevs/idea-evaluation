@@ -160,12 +160,5 @@ After 90 days of a live product, re-evaluate using actual data instead of projec
 
 Each startup idea gets a full 5-role analysis saved to `evaluations/` with `s##` prefix. Status updates here as we go.
 
-*Note: Ideas 1-5 below were evaluated under the old framework (which allowed "Conditional Go"). Under the current framework, those would be re-evaluated as binary Go/No-Go.*
-
 | # | Idea | Verdict | Evaluation |
 |---|------|---------|------------|
-| 1 | Insurance Claim Documentation Assistant | **CONDITIONAL GO** *(legacy)* | [Full Report](evaluations/01-insurance-claim-assistant.md) |
-| 2 | Landlord Legal Compliance, State by State | **CONDITIONAL GO** *(legacy)* | [Full Report](evaluations/02-landlord-legal-compliance.md) |
-| 3 | Public Records Intelligence API | **CONDITIONAL GO** *(legacy)* | [Full Report](evaluations/03-public-records-api.md) |
-| 4 | Subcontractor Compliance Tool for Small GCs | **GO** | [Full Report](evaluations/04-subcontractor-compliance.md) |
-| 5 | AI-Powered Zoning & Permit Research | **NO-GO** | [Full Report](evaluations/05-zoning-permit-research.md) |
